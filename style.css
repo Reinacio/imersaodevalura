@@ -1,0 +1,52 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://s1.1zoom.me/big0/798/Joker_hero_Joaquin_Phoenix_Joker_2019_Black_570774_1280x720.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+
+  .page-logo {
+    width: 200px;
+  }
+
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  body > img {
+    margin: 0 10px;
+  }
+
+  img {
+    max-height: 250px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    letter-spacing: 0.1rem;
+    color: #fff;
+    padding: 2.5rem 1rem;
+    text-align: center;
+  }
